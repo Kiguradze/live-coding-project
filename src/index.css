@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: rgb(54, 53, 53);
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+.paint-display {
+  width: 600px;
+  height: 600px;
+  background-color: white;
+}
+
+.circle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
