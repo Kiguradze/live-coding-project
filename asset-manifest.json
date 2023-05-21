@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-coding-project/static/css/main.69fdffff.css",
+    "main.js": "/live-coding-project/static/js/main.0b46c745.js",
+    "index.html": "/live-coding-project/index.html",
+    "main.69fdffff.css.map": "/live-coding-project/static/css/main.69fdffff.css.map",
+    "main.0b46c745.js.map": "/live-coding-project/static/js/main.0b46c745.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69fdffff.css",
+    "static/js/main.0b46c745.js"
+  ]
+}
